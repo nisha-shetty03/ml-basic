@@ -1,3 +1,4 @@
 # ml-basic
-this is my first git repository.
-author-nisha
+This is my first Git Repository.
+<br>
+Author-Nisha
